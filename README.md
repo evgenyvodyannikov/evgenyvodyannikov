@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @evgenyvodyannikov
+- 👋 Hi, I’m Evgeny Vodyannikov
 - 👀 I’m interested in IT software and working in big company
 - 🌱 I’m currently learning React (+Native), JS and Python
 
